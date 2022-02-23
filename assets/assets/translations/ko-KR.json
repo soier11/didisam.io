@@ -1,0 +1,56 @@
+{
+  "keys": {
+    "password": "비밀번호"
+  },
+  "appName": "디디쌤",
+  "hello": "안녕",
+  "name": "이름",
+  "clear": "청소",
+  "english": "English",
+  "korean": "한국어",
+  "myName": "shawn",
+  "myNameIs": "내 이름은 {}",
+  "namedArgs": "namedArgs {name}",
+  "argsWithNamedArgs": "args: {}, {}, Named Args {name}",
+  "mode": {
+    "mode1": "{}과 함께한다.",
+    "mode2": "{}와 이별한다.",
+    "mode3": "{}를 응원한다."
+  },
+  "sign": {
+    "signInWith": "Sign in with {}",
+    "userHint": "이메일",
+    "emailValidatorError": "이메일 양식이 맞지 않습니다.",
+    "passwordHint": "@.lower:keys.password",
+    "confirmPasswordHint": "@.lower:keys.password 재입력",
+    "confirmPasswordError": "@.lower:keys.password가 맞지않습니다.",
+    "passwordValidatorIsEmpty": "@.lower:keys.password를 입력해주세요.",
+    "loginButton": "로그인",
+    "signupButton": "회원가입",
+    "forgotPasswordButton": "@.lower:keys.password를 잊었나요?",
+    "providersTitle": "또는",
+    "recoverPasswordIntro": "@.lower:keys.password를 찾을 이메일을 입력해주세요.",
+    "recoverCodePasswordDescription": "이메일 인증을 통해 @.lower:keys.password를 초기화 합니다.",
+    "recoverPasswordButton": "@.lower:keys.password 찾기",
+    "goBackButton": "뒤로가기",
+    "confirmRecoverIntro": "새 @.lower:keys.password를 설정하기 위한 복구 코드가 귀하의 이메일로 전송되었습니다.",
+    "recoveryCodeHint": "복구코드",
+    "setPasswordButton": "@.lower:keys.password 변경",
+    "recoveryCodeValidationError": "복구코드가 맞지않습니다.",
+    "confirmRecoverSuccess": "@.lower:keys.password 변경이 완료되었습니다.",
+    "phoneValidatorError": "유효한 전화번호가 아닙니다.",
+    "additionalSignUpSubmitButton": "가입완료"
+  },
+  "settings": {
+    "settings": "환경설정",
+    "language": "언어 선택",
+    "push": "알림",
+    "appPush": "광고알림"
+  },
+  "more": {
+    "more": "More",
+    "qa": "문의하기",
+    "faq": "자주 묻는 질문",
+    "policy": "개인정보보호정책"
+  }
+}
